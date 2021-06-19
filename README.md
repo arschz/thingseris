@@ -6,6 +6,6 @@ Esta es una plantilla de bot de discord que creé usando la biblioteca eris.
 
 Esta plantilla viene con un comando prefabricado que es el comando de ayuda.
 
-¿Dónde se almacenan el token y el prefix? `ErisBotLib/_components/config.json`
+¿Dónde se almacenan el token y el prefix? `ThingsEris/_components/config.json`
 
-¿Cómo agrego más eventos al bot? `ErisBotLib/_components/eventHandler.js`
+¿Cómo agrego más eventos al bot? `ThingsEris/_components/eventHandler.js`
